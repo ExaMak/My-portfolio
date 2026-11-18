@@ -1,0 +1,25 @@
+.heading1{
+font-family: Helvetica;
+text-align: center;
+color:rgb(0, 183, 110);
+}
+.heading2{
+text-align: center;
+font-family: Helvetica;
+color:rgb(0, 183, 110);
+}
+.plaintext{
+font-family: Helvetica;
+font-size: 20px;
+}
+body{
+padding: 10px;
+}
+.image-container{
+justify-content: center;
+text-align: center;
+display: flex;
+}
+.image1{
+padding: 10px;
+}
